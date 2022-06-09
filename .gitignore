@@ -4,6 +4,7 @@
 node_modules
 .secret
 env.json
+yarn.lock
 
 #Buidler files
 cache
